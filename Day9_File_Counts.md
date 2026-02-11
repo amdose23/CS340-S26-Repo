@@ -7,7 +7,7 @@ Task: submit a PR with the number of files contained in your home directory
 | -------- | ---------- |
 | Alex     |            |
 | Andraz   |            |
-| Andrew   |            |
+| Andrew   |    15802   |
 | Andrey   |            |
 | Ariana   |            |
 | Chris    |            |
